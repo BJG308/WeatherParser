@@ -1,5 +1,5 @@
 # WeatherParser
-***** A python based GUI application which determines clothing choices for users based on their zipcode's current weather. *****
+* A python based GUI application which determines clothing choices for users based on their zipcode's current weather. *
 
 Welcome to the Weather Parsing Clothing
 Decider! The Weather Decider will take
